@@ -17,7 +17,6 @@
 
 🛠️ Technology Used
 
-![Random Password Generator Screenshot](screenshot.png)
 
 
 ✅   HTML5
@@ -25,3 +24,7 @@
  ✅ CSS3
 
 ✅  JavaScript.
+
+
+
+![Random Password Generator Screenshot](screenshot.png)
