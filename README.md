@@ -17,6 +17,8 @@
 
 🛠️ Technology Used
 
+![Random Password Generator Screenshot](screenshot.png)
+
 
 ✅   HTML5
 
